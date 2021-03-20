@@ -9,7 +9,7 @@
   "devDependencies": {
     "husky": "^4.3.0",
     "lint-staged": "^10.4.2",
-    "microsite": "file:.yalc/microsite",
+    "microsite": "1.2.0",
     "prettier": "^2.1.2"
   },
   "husky": {
